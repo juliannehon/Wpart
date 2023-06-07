@@ -1,4 +1,4 @@
-|Tests Status| |Coverage Status|
+|Tests Status| |Coverage Status|w
 
 Patroni: A Template for PostgreSQL HA with ZooKeeper, etcd or Consul
 --------------------------------------------------------------------
